@@ -30,6 +30,6 @@ Where: Total Interest = Product Price × Monthly Interest Rate × Number of Mont
 
 ## 📸 Screenshots
 
-> You can add screenshots to the `/assets/screenshots/` folder and reference them here:
+`/assets/screenshots/`
 
 
