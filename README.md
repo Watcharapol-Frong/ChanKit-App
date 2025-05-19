@@ -42,6 +42,10 @@ If you’d like to help us improve the app by providing feedback, please sign up
 > 💡 The app is currently available for Android only (APK download)
 
 
+📲 **Download ChanKit App (Alpha v3.1.6)**  
+Try our Android app for quick installment calculations.  
+👉 [Download APK](https://chanpay-app.s3.ap-southeast-1.amazonaws.com/ChanKit-alpha-v.3.1.6.apk)
+
 ## 🙋‍♂️ Developer
 Created by [Watcharapol Frong](https://frongwatcharapol.com)
 
