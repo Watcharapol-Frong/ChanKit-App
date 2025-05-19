@@ -32,6 +32,16 @@ Where: Total Interest = Product Price × Monthly Interest Rate × Number of Mont
 
 `/assets/screenshots/`
 
+## 🧪 Become a Tester
+
+We’re currently inviting testers to try out **ChanKit App** before the official release!
+
+If you’d like to help us improve the app by providing feedback, please sign up using the form below.  
+📝 [Register to be a Tester](https://docs.google.com/forms/d/e/1FAIpQLSf2wcWIrjpzv0SFRqJ2RTw8oeMBmMPu0Y2SBSRkKP-5DyO6Ag/viewform?usp=dialog)
+
+> 💡 The app is currently available for Android only (APK download)
+
+
 ## 🙋‍♂️ Developer
 Created by [Watcharapol Frong](www.frongwatcharapol.com)
 
