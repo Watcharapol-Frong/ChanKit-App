@@ -43,7 +43,7 @@ If you’d like to help us improve the app by providing feedback, please sign up
 
 
 ## 🙋‍♂️ Developer
-Created by [Watcharapol Frong](www.frongwatcharapol.com)
+Created by [Watcharapol Frong](https://frongwatcharapol.com)
 
 📧 Contact: r.labz.dev@gmail.com
 
