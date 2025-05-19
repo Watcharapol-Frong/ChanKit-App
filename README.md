@@ -32,4 +32,8 @@ Where: Total Interest = Product Price × Monthly Interest Rate × Number of Mont
 
 `/assets/screenshots/`
 
+## 🙋‍♂️ Developer
+Created by [Watcharapol Frong](www.frongwatcharapol.com)
+
+📧 Contact: r.labz.dev@gmail.com
 
